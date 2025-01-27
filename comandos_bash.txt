@@ -3,3 +3,4 @@ cd - move entre diretórios
 pwd - mostra diretório
 cat - exibe o conteúdo do arquivo
 rm - remove arquivo ou diretório
+rm -rf - remove arquivo de modo forçado
