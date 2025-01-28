@@ -1,0 +1,2 @@
+esse é arquivo é um arquivo que pertencerá a secundária 2
+ mais uma linha nesse arquivo
